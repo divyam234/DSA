@@ -1,4 +1,4 @@
-# Boundary Traversal Binary Tree
+# LCA Binary Tree
 
 ## Intuition
 
